@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(wiki/**/*.scb)",
+      "Write(wiki/**/*.scb)",
+      "Edit(wiki/**/*.md)",
+      "Write(wiki/**/*.md)",
+      "WebSearch",
+      "WebFetch"
+    ]
+  }
+}
